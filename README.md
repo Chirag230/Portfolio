@@ -29,7 +29,7 @@ Check out my personal portfolio website [here](https://chiraggargportfolio.netli
 
 ## 🛠️ Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React, Redux
+- **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 
